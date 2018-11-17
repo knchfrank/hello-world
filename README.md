@@ -1,4 +1,2 @@
 # hello-world
-testsir
-my name is sarin anuttranon
-hello
+ai sus post
